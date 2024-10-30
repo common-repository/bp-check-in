@@ -1,0 +1,28 @@
+{
+  "name": "bp-checkin",
+  "version": "0.1.0",
+  "url": "https://github.com/wbcomdesigns/buddypress-check-in",
+  "license": "GPL-2.0+",
+  "description": "Location checkins for BuddyPress",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-wp-i18n": "^1.0.3",
+    "minimist": ">=1.2.6",
+    "set-value": ">=4.0.1",
+    "postcss": ">=7.0.36"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wbcomdesigns/buddypress-check-in"
+  },
+  "dependencies": {
+    "grunt-checktextdomain": "^1.0.1",
+    "grunt-rtlcss": "^2.0.2",
+    "load-grunt-tasks": "^3.5.2",
+    "set-value": ">=4.0.1",
+    "postcss": ">=7.0.36"
+  }
+}
